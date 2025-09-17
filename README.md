@@ -2,7 +2,7 @@
 
 
 ## Description
-This is my portfolio, built with React.
+This is my portfolio, built with Create React App and migrated to Vite.
 
 [Deployed Link](https://jpking1337portfolio.netlify.app/)
 
@@ -28,7 +28,7 @@ Upon accessing the project at the [deployed link](https://jpking1337portfolio.ne
 
 
 ## Credits
-ChatGPT has become my best friend when coding. I go to it for any errors I can't understand and for quick confirmation that a snippet of code will function how I want it to. This project is no different - I consulted ChatGPT for assistance handling errors and figuring out solutions to problems when browsing the internet myself proved either ineffective or too tedious. It's like a personal tutor available 24/7!
+Special thanks to Adhithi Ravichandran, whose [February 2025 article](https://adhithiravi.medium.com/migrating-from-create-react-app-to-vite-a-modern-approach-76148adb8983) on Medium helped me migrate from CRA to Vite.
 
 
 ## License

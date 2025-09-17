@@ -14,7 +14,7 @@ export default function About() {
 
                         <div className="about-paragraphs">
                             <p className="about-paragraph">
-                                I'm J.P. King, a Web Developer from Pennsylvania with a diverse background in German studies and the restaurant industry. My journey in tech is fueled by an unwavering work ethic and a thirst for continuous learning. I am eager to contribute my skills and enthusiasm to the dynamic world of web development. Let's build something amazing together!
+                                I'm J.P. King, a Teacher and Web Developer from Pennsylvania with a diverse background in German studies, teaching, and the restaurant industry. My journey in tech is fueled by an unwavering work ethic and a thirst for continuous learning. I am eager to contribute my skills and enthusiasm to the dynamic world of web development. Let's build something amazing together!
                             </p>
                         </div>
 
