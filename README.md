@@ -2,7 +2,7 @@
 
 
 ## Description
-This is my portfolio, built with Create React App and migrated to Vite.
+This is my portfolio, built originally with Create React App and then migrated to Vite.
 
 [Deployed Link](https://jpking1337portfolio.netlify.app/)
 
@@ -16,13 +16,11 @@ This is my portfolio, built with Create React App and migrated to Vite.
 
 ## Installation
 You can clone this GitHub repo with the command line:
-git clone git@github.com:jp-king-1337/react_portfolio.git
+git clone git@github.com:jp-king-1337/portfolio_vite.git
 
 
 ## Usage
-This project is to be graded as part of my participation in the Rutgers Coding Bootcamp, but more importantly, it demonstrates the things I've learned in the bootcamp, and beyond!
-
-Upon accessing the project at the [deployed link](https://jpking1337portfolio.netlify.app/), a user will be able to learn about me through the About Me section, or contact me through the form in - you guessed it - the Contact Me section. Creative names, right? Additionally, any visitor to the site can view a portfolio of my work, which will be updated periodically with additional examples, and download my resume if desired.
+Upon accessing this site at the [deployed link](https://jpking1337portfolio.netlify.app/), a user will be able to learn about me through the About Me section, or contact me through the form in - you guessed it - the Contact Me section. Creative names, right? Additionally, any visitor to the site can view a portfolio of my work, which will be updated periodically with additional examples.
 
 
 ## Credits
