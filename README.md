@@ -6,8 +6,6 @@ This is my portfolio, built with Create React App and migrated to Vite.
 
 [Deployed Link](https://jpking1337portfolio.netlify.app/)
 
-![Screenshot of the home page of my portfolio](public/assets/images/screenshots/portfolio-screenshot.png)
-
 
 ## Table of Contents
 - [Installation](#installation)
